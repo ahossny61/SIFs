@@ -10,9 +10,9 @@ Sure, we all searched for a video before, but we didn't look for something in a 
   If you liked the project or if Equinox helped you, please give a star ;)
   
   # Technolgies used:
-  ..* Tensorflow
-  ..* OpenCV
-  ..* MySql
-  ..* C#
-  ..* Python
-  ..* YOLO v3
+  * Tensorflow
+  * OpenCV
+  * MySql
+  * C#
+  * Python
+  * YOLO v3

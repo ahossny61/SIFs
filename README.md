@@ -12,6 +12,7 @@ Sure, we all searched for a video before, but we didn't look for something in a 
   # Technolgies used:
   * Tensorflow
   * OpenCV
+  * java
   * MySql
   * C#
   * Python
